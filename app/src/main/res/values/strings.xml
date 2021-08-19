@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InputControlsActivity</string>
+    <string name="qsnone"> Which of the following kernel is used in Android</string>
+    <string name="text_article">(1)This test consists of two questions.Read each question and answer
+choice carefully and choose the best answer.\n(2)Try to answer all questions. In general, if you have some knowledge about a question, it
+is better to try to answer it.\n(3)You may NOT use reference materials during the testing session.\n\n Wishing you best of luck!</string>
+    <string name="question">What is the world\'s highest mountain?</string>
+    <string name="rule">Read the instructions carefully before you begin...</string>
+    <string name="answer1">Matterhorn</string>
+    <string name="answer2">Mount Olympus</string>
+    <string name="answer3">Mount Everest</string>
+    <string name="answer4">Mount Fuji</string>
+    <string name="submit_answer">Submit Answer</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="incorrect_answer">Incorrect Answer</string>
+    <string name="missing_answer">Missing Answer</string>
+    <string name="textView">Which of these players were in Indian Cricket Team? Select all options that apply.</string>
+    <string name="checkBox">MS Dhoni</string>
+    <string name="checkBox2">Sourav Ganguly</string>
+    <string name="checkBox3">Abhinav Bindra</string>
+    <string name="rate">Did you enjoy the app? Let us know how much you enjoyed it. Give your ratings here.</string>
+</resources>
